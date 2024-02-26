@@ -1,5 +1,4 @@
 # forestland-fire-detection
-
 Wildfires is a major social problem considering that the  aftermath can be costly for the 
 environment  (losses  of  animals,  properties,  cultural  heritage)  as  well  as  for  the  society, 
 causing loss of human life. Many efforts have been made in order to develop applications or 
